@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# My name is Mohammed Bazlamit.
+## Currently moving into the Data Analytics Realm from Geology and working on several projects that concentrates on web scraping and machine learning.
 <!--
 **Mbazlami/Mbazlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
