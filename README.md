@@ -2,7 +2,7 @@
 # My name is Mohammed Bazlamit.
 ## Currently moving into the Data Science and Analytics realm from Geology and working on several projects that concentrate on machine learning optimization and spatial analysis.
 
-## please check my [Data Science Repos]()
+## please check my [Data Science Repos](https://github.com/Mbazlami/Data_Science_Code_examples)
 <!--
 **Mbazlami/Mbazlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
